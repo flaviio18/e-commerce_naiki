@@ -1,0 +1,214 @@
+[
+    {
+      "id": 1,
+      "name": "Air-max" ,
+      "model": "Air" ,
+      "price": "109" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 2,
+      "name": "Air-Force one" ,
+      "model": "Air" ,
+      "price": "45" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 3,
+      "name": "Air-max 90"  ,
+      "model": "Air" ,
+      "price": "180" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 4,
+      "name": "Metcon" ,
+      "model": "sport" ,
+      "price": "109" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 5,
+      "name": "Air max plus" ,
+      "model": "Air" ,
+      "price": " 85" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 6,
+      "name": "Dunk low" ,
+      "model": "Dunk" ,
+      "price": " 109" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  
+  {
+      "id": 7,
+      "name": "Jordan 4" ,
+      "model": "Jordan" ,
+      "price": " 344" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 8,
+      "name": "Pegasus" ,
+      "model": "sport" ,
+      "price": " 85" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 9,
+      "name": "Luke 1" ,
+      "model": "scarpe" ,
+      "price": "78" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  
+  {
+      "id": 10,
+      "name": "P-6000" ,
+      "model": "scarpe" ,
+      "price": "199" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 11,
+      "name": "Inviceble" ,
+      "model": "sport" ,
+      "price": "200" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 12,
+      "name": "Air jord 1 Low SE Craft" ,
+      "model": "sport" ,
+      "price": "245" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 13,
+      "name": "Lw G" ,
+      "model": "scarpe" ,
+      "price": "98 " ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 14,
+      "name": "Legacy 312" ,
+      "model": "sport" ,
+      "price": "909" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 15,
+      "name": "Luka 1" ,
+      "model": "sport" ,
+      "price": "345" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 16,
+      "name": "Jumpman MVP" ,
+      "model": "sport" ,
+      "price": "290"  ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 17,
+      "name": "Jordan Play" ,
+      "model": "Jordan" ,
+      "price": "90" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 18,
+      "name": "Jordan Post" ,
+      "model": "scarpe" ,
+      "price": "899" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 19,
+      "name": "Max PLus " ,
+      "model": "scarpe" ,
+      "price": "123" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 20,
+      "name": "Hustle 2" ,
+      "model": "sport" ,
+      "price": "909" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 21,
+      "name": "Nike Air Max 95" ,
+      "model": "scarpe" ,
+      "price": "78" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 22,
+      "name": "Jordan Stadium" ,
+      "model": "sport" ,
+      "price": "899" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 23,
+      "name": "Nike Tanjun" ,
+      "model": "scarpe" ,
+      "price": "233" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 24,
+      "name": "Nike Air Huarache" ,
+      "model": "scarpe" ,
+      "price": "899" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 25,
+      "name": "Superfly 9" ,
+      "model": "sport" ,
+      "price": "900" ,
+      "url"  : "media/placeholder.jpeg"
+  },
+  
+  {
+      "id": 26,
+      "name": "Phantom Luna" ,
+      "model": "sport" ,
+      "price": "122" ,
+      "url"  : "media/placeholder.jpeg"
+  }
+  
+  
+  ]
+  
